@@ -1,0 +1,17 @@
+{
+  "name": "hain-plugin-link",
+  "version": "0.0.1",
+  "description": "hain plugin to manage persistent shortcuts/links (to URLs, files, paths, etc.)",
+  "author": "lawgsy <lawgsy@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hain-0.6.0"
+  ],
+  "hain": {
+    "prefix": "#",
+    "usage": "#link",
+    "icon": "#fa fa-link",
+    "redirect": "# ",
+    "preview": false
+  }
+}
