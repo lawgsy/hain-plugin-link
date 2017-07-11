@@ -16,7 +16,7 @@ A plugin for managing links (or 'shortcuts'). Will open anything in default prog
 Type this command in the Hain input:
 
 ```
-/hpm install link
+/hpm install hain-plugin-link
 ```
 
 ## Usage
